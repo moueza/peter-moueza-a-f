@@ -1,5 +1,9 @@
 # PeterMouezaAF
 
+https://console.firebase.google.com/u/0/project/peter-moueza-a-f/apphosting
+
+https://peter-moueza-a-f--peter-moueza-a-f.us-central1.hosted.app/
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.3.
 
 ## Development server
